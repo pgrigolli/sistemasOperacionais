@@ -1,0 +1,33 @@
+
+Médias Aritméticas das Linhas:
+Linha 0: 63.77
+Linha 1: 47.85
+Linha 2: 46.69
+Linha 3: 43.38
+Linha 4: 61.46
+Linha 5: 45.23
+Linha 6: 58.92
+Linha 7: 60.77
+Linha 8: 51.54
+Linha 9: 49.38
+Linha 10: 53.85
+Linha 11: 38.15
+Linha 12: 51.00
+Linha 13: 50.92
+Linha 14: 47.69
+Linha 15: 33.46
+
+Médias Geométricas das Colunas:
+Coluna 0: 48.21
+Coluna 1: 33.06
+Coluna 2: 42.81
+Coluna 3: 27.46
+Coluna 4: 43.83
+Coluna 5: 39.09
+Coluna 6: 39.71
+Coluna 7: 59.34
+Coluna 8: 28.63
+Coluna 9: 41.68
+Coluna 10: 54.69
+Coluna 11: 26.99
+Coluna 12: 38.45
